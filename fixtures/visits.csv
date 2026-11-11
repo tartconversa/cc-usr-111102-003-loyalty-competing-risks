@@ -1,0 +1,8 @@
+subject_key,visit_id,event_at,format
+p1,p1-first,2026-10-01T12:00:00+08:00,family
+p2,p2-first,2026-10-01T12:00:00+08:00,family
+p3,p3-first,2026-10-01T12:00:00+08:00,family
+p4,p4-first,2026-10-01T12:00:00+08:00,family
+p1,p1-return,2026-10-02T12:00:00+08:00,family
+p1,p1-return,2026-10-02T12:00:00+08:00,family
+p4,p4-return,2026-10-04T12:00:00+08:00,family

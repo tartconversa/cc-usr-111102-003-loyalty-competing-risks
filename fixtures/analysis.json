@@ -1,0 +1,9 @@
+{
+  "cutoff": "2026-10-05T12:00:00+08:00",
+  "censor_at": {
+    "p3": "2026-10-03T12:00:00+08:00"
+  },
+  "bootstrap_repeats": 200,
+  "seed": 10203,
+  "same_subject_tie": "exit_before_return"
+}
